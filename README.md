@@ -1,4 +1,4 @@
-# C# OOP Telefon Defteri Example
+# C# OOP Telefon Defteri Örneği
 Bu proje sayesinde basit düzeyde OOP (Nesen yönelimli programlama) nın basit olarak mantığını kavrayabilirsiniz.<br><br>
 
 Temel olarak <b>yeni kayıt</b> ekleme ve eklenen kayırları <b>filitreleyerek</b> listeleme işlemleri yapılmakta.<br><br>
