@@ -1,0 +1,18 @@
+c:\users\tahayasinkoksal\documents\visual studio 2012\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.exe.config
+c:\users\tahayasinkoksal\documents\visual studio 2012\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.exe
+c:\users\tahayasinkoksal\documents\visual studio 2012\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.pdb
+c:\users\tahayasinkoksal\documents\visual studio 2012\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.csprojResolveAssemblyReference.cache
+c:\users\tahayasinkoksal\documents\visual studio 2012\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.Properties.Resources.resources
+c:\users\tahayasinkoksal\documents\visual studio 2012\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.csproj.GenerateResource.Cache
+c:\users\tahayasinkoksal\documents\visual studio 2012\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.exe
+c:\users\tahayasinkoksal\documents\visual studio 2012\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.pdb
+C:\Users\TahaYasinKoksal\Documents\Visual Studio 2012\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.Form1.resources
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.exe.config
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.exe
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.pdb
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.exe
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.pdb
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.csprojResolveAssemblyReference.cache
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.Form1.resources
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.Properties.Resources.resources
+C:\Users\TahaYasinKoksal\Desktop\12345678\Vizeler\2.VİZELER\nesne\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.csproj.GenerateResource.Cache
